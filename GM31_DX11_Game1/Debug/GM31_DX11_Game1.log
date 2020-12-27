@@ -1,0 +1,30 @@
+﻿  bullet.cpp
+  camera.cpp
+  enemy.cpp
+  enemyController.cpp
+  explosion.cpp
+  field.cpp
+  game.cpp
+  input.cpp
+  main.cpp
+  manager.cpp
+  menu.cpp
+  model.cpp
+  player.cpp
+  polygon.cpp
+  renderer.cpp
+  result.cpp
+  resultBackground.cpp
+  title.cpp
+c:\c program projects\at13e101_06_gm31_夏の3dゲーム\ソースコードと実行ファイル\gm31_dx11_game1\title.cpp : warning C4821: 無法判斷 Unicode 編碼類型，請用簽章 (BOM) 儲存檔案
+  tutorial.cpp
+  tutorialBackground.cpp
+  正在產生程式碼...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(423,5): warning MSB8015: 所有來源檔案均非最新: 因為 'C:\C Program Projects\AT13E101_06_GM31_夏の3Dゲーム\ソースコードと実行ファイル\GM31_DX11_Game1\Debug\GM31_DX11_Game1.tlog\CL.command.1.tlog' 的內容無效，所以強制重建所有來源檔案。
+manager.obj : error LNK2001: 無法解析的外部符號 "public: virtual void __thiscall CTitle::Init(void)" (?Init@CTitle@@UAEXXZ)
+result.obj : error LNK2001: 無法解析的外部符號 "public: virtual void __thiscall CTitle::Init(void)" (?Init@CTitle@@UAEXXZ)
+manager.obj : error LNK2001: 無法解析的外部符號 "public: virtual void __thiscall CTitle::Update(void)" (?Update@CTitle@@UAEXXZ)
+result.obj : error LNK2001: 無法解析的外部符號 "public: virtual void __thiscall CTitle::Update(void)" (?Update@CTitle@@UAEXXZ)
+manager.obj : error LNK2001: 無法解析的外部符號 "public: virtual void __thiscall CTitle::Uninit(void)" (?Uninit@CTitle@@UAEXXZ)
+result.obj : error LNK2001: 無法解析的外部符號 "public: virtual void __thiscall CTitle::Uninit(void)" (?Uninit@CTitle@@UAEXXZ)
+C:\C Program Projects\AT13E101_06_GM31_夏の3Dゲーム\ソースコードと実行ファイル\GM31_DX11_Game1\Debug\GM31_DX11_Game1.exe : fatal error LNK1120: 3 個無法解析的外部符號
